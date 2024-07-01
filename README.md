@@ -13,6 +13,7 @@ This project demonstrates the use of a ResNet model to detect various types of g
 - [Usage](#usage)
 
 ## Overview
+![image](https://github.com/tyl-99/gym-equipment-detector/assets/71328888/153cc544-8262-44cc-879c-9118b01da8c8)
 
 This project aims to detect different types of gym equipment in images using a ResNet model. The model is trained to accurately identify and locate various gym equipment in different settings.
 
